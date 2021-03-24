@@ -1,0 +1,25 @@
+_repo: The-Death-of-the-Scharnhorst-and-Other-Poems_64594
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McKillen, Arch Alfred
+    birthdate: 1914
+    gutenberg_agent_id: '52976'
+    url: http://www.gutenberg.org/2009/agents/52976
+description: ''
+gutenberg_issued: '2021-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64594'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scharnhorst (Battleship) -- Poetry'
+- !lcsh 'Ships -- Poetry'
+- !lcsh 'World War, 1939-1945 -- Poetry'
+- !lcc 'PS'
+- GITenberg
+title: The Death of the Scharnhorst, and Other Poems
+url: http://www.gutenberg.org/ebooks/64594
